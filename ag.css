@@ -61,6 +61,8 @@
   flex-direction: column;
 }
 
+
+
 .section {
   width: 100%;
   min-height: 100vh;
@@ -93,10 +95,15 @@
   align-items: center;
 }
 
+.frontpage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .frontpage-title {
-  position: relative;
-  top: 40%;
-  left: 5%;
+  font-family: 'Playfair Display', 'serif';
+  font-size: 5em;
 }
 
 .frontpage-image {
