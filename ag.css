@@ -65,9 +65,10 @@
 
 .section {
   width: 100%;
-  min-height: 100vh;
   padding-top: 4em;
 }
+
+
 
 .section-header {
   font-size: 2.25em;
@@ -99,6 +100,8 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  width: 100%;
+  min-height: 100vh;
 }
 
 .frontpage-title {
@@ -108,6 +111,11 @@
 
 .frontpage-image {
   width: 30%;
+}
+
+.link {
+  color: #1b43ba;
+  text-decoration: underline;
 }
 
 .screen50 {
