@@ -61,6 +61,14 @@
   flex-direction: column;
 }
 
+.footer {
+  width: 100%;
+  color: #777;
+  text-align: center;
+  padding: 1em;
+  margin-top: 4em;
+}
+
 
 
 .section {
