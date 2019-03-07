@@ -84,6 +84,24 @@
   margin-bottom: 0.5em;
 }
 
+.socialmedia {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 1em;
+}
+
+.socialmedia-link {
+  margin: 0 1em;
+}
+
+.socialmedia-link span {
+  font-size: 3em;
+}
+
+
+
 .wrapper {
   max-width: 1000px;
   min-width: 400px;
@@ -262,7 +280,7 @@
   * {
     font-size: 14px;
   }
-  
+
   .navigator-links {
     justify-content: center;
   }
