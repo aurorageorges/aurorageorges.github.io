@@ -259,6 +259,7 @@
 
 .portfolio-image img {
   width: 100%;
+  cursor: pointer;
 }
 
 .portfolio-image:last-child {
