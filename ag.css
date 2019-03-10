@@ -208,6 +208,7 @@
 .paragraph {
   line-height: 1.6;
   margin-bottom: 1em;
+  text-align: justify;
 }
 
 .paragraph:last-child {
