@@ -1,0 +1,8 @@
+---
+layout: default
+---
+{% for c in site.portfolio %}
+<a class="image-box centering" href="{{ c.url }}" style="background-image: url('{{ c.coverImage }}');">
+  <h2 class="image-box-text">{{ c.name }}</h2>
+</a> 
+{% endfor %}
