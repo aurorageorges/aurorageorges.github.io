@@ -66,7 +66,7 @@ images:
 var slides = document.querySelectorAll('.frontpage-image');
 slides[0].classList.add('visible');
 var currentSlide = 0;
-var slideInterval = setInterval(nextSlide, 5000);
+var slideInterval = setInterval(nextSlide, 4000);
 function nextSlide() {
   slides[currentSlide].classList.remove('visible');
   currentSlide = (currentSlide + 1) % slides.length;
