@@ -1,77 +1,76 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+---
+layout: default
+images: 
+- /assets/images/illustrations/aurora-georges-snowoman-edit.jpg
+- /assets/images/characters/assassin_concept_final.jpg
+- /assets/images/illustrations/aurora-georges-glowy-blur.jpg
+- /assets/images/illustrations/aurora-georges-candyscull-red.jpg
+---
+<div id="frontpage" class="fullscreen centering">
+  <div class="frontpage-container" >
+    <div id="frontpage-images">
+      {% for image in page.images %}
+        <div class="frontpage-image circle" style="background-image: url({{ image }});"></div>
+      {% endfor %}
+    </div>
+    <h1 class="frontpage-title">Aurora Georges</h1>
+    <h2 class="frontpage-description">Illustrator</h2>
+  </div>
+</div>
+<div id="about" class="section">
+  <h2 class="section-header">About me</h2>
+  <p class="paragraph">
+    Hello, my name is Aurora Georges and I'm a norwegian artist and illustrator 
+    currently based in Vietnam! Born in 1994, I grew up with a big interest for 
+    drawing and after finishing high school with a specialization within art, there 
+    was no doubt. I wanted to become better in what I love to do, and so I got my 
+    bachelor degree in Digital Art and Design after graduating from Hedmark 
+    University of Applied Sciences. I started my career working as a freelancer 
+    for Prouder AS creating illustrated logos for half a year before moving to 
+    Vietnam.
+  </p>
+  <p class="paragraph">
+    There I have been working for over a year as a Junior 2D concept artist for 
+    Gameloft in Da Nang, and it has been quite the adventure so far! I've been 
+    learning everything from how a normal workday look like at a game-company to 
+    producing more efficiently concept art and illustrations after feedback.
+  </p>
+  <p class="paragraph">  
+    I'm always looking forward to meet new people and constantly improve my art, 
+    so please feel free to contact me about exciting work opportunities!
+  </p> 
+  <div class="horizontal">
+    <div class="circle about-image" style="background-image: url(/assets/images/me/profile.jpg)"></div>
+  </div>
+</div>
+<div id="contact" class="section">
+  <h2 class="section-header">Contact me</h2>
+  <p class="paragraph">
+    Feel free to send me a mail at 
+    <a class="link" href="mailto:aurorageorges@hotmail.com">aurorageorges@hotmail.com</a> 
+    or find me on social media.
+  </p>
+  <div class="socialmedia">
+    <a class="socialmedia-link" href="https://www.facebook.com/AuroraGeorgesArt/">
+      <span class="fab fa-facebook"></span>    
+    </a>
+    <a class="socialmedia-link" href="https://www.instagram.com/illustraurora/">
+      <span class="fab fa-instagram"></span>    
+    </a>
+    <a class="socialmedia-link" href="https://www.artstation.com/artist/glosh">
+      <span class="fab fa-artstation"></span>    
+    </a>
+  </div>
+</div>
+<script>
+var slides = document.querySelectorAll('.frontpage-image');
+slides[0].classList.add('visible');
+var currentSlide = 0;
+var slideInterval = setInterval(nextSlide, 5000);
+function nextSlide() {
+  slides[currentSlide].classList.remove('visible');
+  currentSlide = (currentSlide + 1) % slides.length;
+  slides[currentSlide].classList.add('visible');
+}
+</script>
   
-  <link rel="manifest" href="ag.webmanifest">
-  <link rel="stylesheet" href="ag.css">
-  
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/brands.css" integrity="sha384-BKw0P+CQz9xmby+uplDwp82Py8x1xtYPK3ORn/ZSoe6Dk3ETP59WCDnX+fI1XCKK" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/fontawesome.css" integrity="sha384-4aon80D8rXCGx9ayDt85LbyUHeMWd3UiBaWliBlJ53yzm9hqN21A+o1pqoyK04h+" crossorigin="anonymous">
-  
-  <title>Aurora Georges</title>
-</head>
-<body>
-  <nav class="navigator">
-    <div class="navigator-links wrapper">
-      <a class="txt-underlined" href="./index.html">Aurora Georges</a>
-      <a href="./portfolio/index.html">Portfolio</a>
-      <a href="#about">About</a>
-      <a href="#contact">Contact</a> 
-    </div>
-  </nav>
-  <main class="main-wrap">
-    <div id="frontpage" class="frontpage">
-      <div class="frontpage-image">
-        <h1 class="frontpage-title">Aurora Georges</h1>
-        <h2 class="frontpage-description">Illustrator</h2>
-      </div>
-    </div>
-    <div id="about" class="section">
-      <h2 class="section-header">About me</h2>
-      <p class="paragraph">
-        Hello, my name is Aurora Georges and I'm a norwegian artist and illustrator 
-        currently based in Vietnam! Born in 1994, I grew up with a big interest for 
-        drawing and after finishing high school with a specialization within art, there 
-        was no doubt. I wanted to become better in what I love to do, and so I got my 
-        bachelor degree in Digital Art and Design after graduating from Hedmark 
-        University of Applied Sciences. I started my career working as a freelancer 
-        for Prouder AS creating illustrated logos for half a year before moving to 
-        Vietnam.
-      </p>
-      <p class="paragraph">
-        There I have been working for over a year as a Junior 2D concept artist for 
-        Gameloft in Da Nang, and it has been quite the adventure so far! I've been 
-        learning everything from how a normal workday look like at a game-company to 
-        producing more efficiently concept art and illustrations after feedback.
-      </p>
-      <p class="paragraph">  
-        I'm always looking forward to meet new people and constantly improve my art, 
-        so please feel free to contact me about exciting work opportunities!
-      </p> 
-    </div>
-    <div id="contact" class="section">
-      <h2 class="section-header">Contact me</h2>
-      <p class="paragraph">
-        Send me a mail at 
-        <a class="link" href="mailto:aurorageorges@hotmail.com">aurorageorges@hotmail.com</a> 
-        or find me on social media.
-      </p>
-      <div class="socialmedia">
-        <a class="socialmedia-link" href="https://www.facebook.com/AuroraGeorgesArt/">
-          <span class="fab fa-facebook"></span>    
-        </a>
-        <a class="socialmedia-link" href="https://www.instagram.com/illustraurora/">
-          <span class="fab fa-instagram"></span>    
-        </a>
-        <a class="socialmedia-link" href="https://www.artstation.com/artist/glosh">
-          <span class="fab fa-artstation"></span>    
-        </a>
-      </div>
-    </div>
-  </main>
-  <footer class="footer">Copyright Aurora Georges - 2019</footer>
-</body>
-</html>

@@ -1,0 +1,12 @@
+---
+layout: default
+---
+<h2 class="txt-fancy txt-huge titlebanner">{{ page.name }}</h2>
+
+{% for image in page.images %}
+<div class="portfolio-image">
+  <img src="{{ image.src }}" onclick="showModal(this)">
+  {% if image.desc %} <p>{{ image.desc }}</p> {% endif %}
+</div>
+<script src="/assets/js/ag-modal.js"></script>
+{% endfor %}
