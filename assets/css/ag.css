@@ -319,12 +319,23 @@
 .portfolio-image {
   display: block;
   width: 100%;
-  margin-bottom: 4em;
+  margin-bottom: 0.25em;
+  position: relative;
 }
 
 .portfolio-image img {
+  display: block;
   width: 100%;
   cursor: pointer;
+}
+
+.portfolio-image p {
+  position: absolute;
+  bottom: 0.25em;
+  left: 0.25em;
+  background-color: #fffa;
+  display: block;
+  padding: 0.5em;
 }
 
 .portfolio-image:last-child {
