@@ -107,17 +107,11 @@
   margin-top: 2em;
 }
 
-.socialmedia-link {
+.socialmedia-icon {
+  width: 3em;
+  height: 3em;
   margin: 0 1em;
 }
-
-.socialmedia-link span {
-  font-size: 3em;
-}
-
-
-
-
 
 .fullscreen {
   width: 100%;
