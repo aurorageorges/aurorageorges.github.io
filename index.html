@@ -5,6 +5,19 @@ images:
 - /assets/images/characters/assassin_concept_final.jpg
 - /assets/images/illustrations/aurora-georges-glowy-blur.jpg
 - /assets/images/illustrations/aurora-georges-candyscull-red.jpg
+socialmedias:
+- 
+  link: https://www.facebook.com/AuroraGeorgesArt/
+  icon: /assets/facebook.svg
+  class: socialmedia-icon-fb
+- 
+  link: https://www.instagram.com/illustraurora/
+  icon: /assets/instagram.svg
+  class: socialmedia-icon-ig
+- 
+  link: https://www.artstation.com/artist/glosh
+  icon: /assets/artstation.svg
+  class: socialmedia-icon-as
 ---
 <div id="frontpage" class="fullscreen centering">
   <div class="frontpage-container" >
@@ -53,15 +66,13 @@ images:
     or find me on social media.
   </p>
   <div class="socialmedia">
-    <a href="https://www.facebook.com/AuroraGeorgesArt/">
-      <img class="socialmedia-icon" src="/assets/facebook.svg">
-    </a>
-    <a href="https://www.instagram.com/illustraurora/">
-      <img class="socialmedia-icon" src="/assets/instagram.svg">
-    </a>
-    <a href="https://www.artstation.com/artist/glosh">
-      <img class="socialmedia-icon" src="/assets/artstation.svg">
-    </a>
+    {% for socialmedia in page.socialmedias %}
+      <a href="{{ socialmedia.link }}">
+        <svg class="socialmedia-icon {{ socialmedia.class }}">
+          <use href="{{ socialmedia.icon }}#icon"></use>
+        </svg>
+      </a>
+    {% endfor %}
   </div>
 </div>
 <script>

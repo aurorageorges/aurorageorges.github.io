@@ -111,7 +111,20 @@
   width: 3em;
   height: 3em;
   margin: 0 1em;
+
+  transition: fill 0.2s;
 }
+
+.socialmedia-icon-fb:hover {
+  fill: #4267b2;
+}
+.socialmedia-icon-ig:hover {
+  fill: #f00075;
+}
+.socialmedia-icon-as:hover {
+  fill: #13aff0;
+}
+
 
 .fullscreen {
   width: 100%;
