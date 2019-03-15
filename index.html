@@ -7,14 +7,17 @@ images:
 - /assets/images/illustrations/aurora-georges-candyscull-red.jpg
 socialmedias:
 - 
+  name: Facebook
   link: https://www.facebook.com/AuroraGeorgesArt/
   icon: /assets/facebook.svg
   class: socialmedia-icon-fb
 - 
+  name: Instagram
   link: https://www.instagram.com/illustraurora/
   icon: /assets/instagram.svg
   class: socialmedia-icon-ig
 - 
+  name: Artstation
   link: https://www.artstation.com/artist/glosh
   icon: /assets/artstation.svg
   class: socialmedia-icon-as
@@ -71,7 +74,8 @@ socialmedias:
   <div class="socialmedia">
     {% for socialmedia in page.socialmedias %}
       <a href="{{ socialmedia.link }}">
-        <svg class="socialmedia-icon {{ socialmedia.class }}">
+        <svg role="img" class="socialmedia-icon {{ socialmedia.class }}">
+          <title>{{ socialmedia.name }} link</title>
           <use href="{{ socialmedia.icon }}#icon"></use>
         </svg>
       </a>
