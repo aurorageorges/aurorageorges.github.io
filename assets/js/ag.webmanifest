@@ -1,0 +1,28 @@
+{
+  "name": "Aurora Georges",
+  "short_name": "Aurora Georges",
+  "start_url": ".",
+  "background_color": "#fff",
+  "description": "Aurora Georges' Portfolio",
+  "icons": [{
+    "src": "icons/ag-logo-32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "icons/ag-logo-64.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  }, {
+    "src": "icons/ag-logo-128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  }, {
+    "src": "icons/ag-logo-256.png",
+    "sizes": "256x256",
+    "type": "image/png"
+  }, {
+    "src": "icons/ag-logo-512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
