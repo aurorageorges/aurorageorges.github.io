@@ -52,6 +52,7 @@
   margin: 0;
   display: block;
   padding: 0 1em;
+  outline: 0;
 }
 
 .navigator-links a:last-child {
