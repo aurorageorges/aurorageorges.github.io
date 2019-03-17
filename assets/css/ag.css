@@ -49,12 +49,18 @@
 }
 
 .navigator-links a {
+  margin: 0;
   display: block;
-  margin-right: 2em;
+  padding: 0 1em;
 }
 
 .navigator-links a:last-child {
-  margin-right: 0;
+  border-left: 1px solid #aaa;
+  padding-right: 0;
+}
+
+.navigator-links a:first-child {
+  padding-left: 0;
 }
 
 .main {
@@ -389,7 +395,7 @@
   }
   
   .navigator-links a {
-    margin-right: 1em;
+    padding: 0 0.5em;
   }
 
   .image-box-text {
