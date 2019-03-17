@@ -228,6 +228,8 @@
   height: 16em;
 
   background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
   filter: grayscale(100%);
 
   margin-bottom: 3em;
