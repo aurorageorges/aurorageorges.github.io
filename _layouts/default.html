@@ -12,7 +12,14 @@
   <title>Aurora Georges</title>
 </head>
 <body>
-  {% include navigation.html %}
+  <nav class="navigator">
+    <div class="navigator-links wrapper">
+      <a {% if page.url == "/" %} class="txt-underlined" {% endif %} href="/">Aurora Georges</a>
+      <a {% if page.url != "/" %} class="txt-underlined" {% endif %} href="/portfolio.html">Portfolio</a>
+      <a href="/#about">About</a>
+      <a href="/#contact">Contact</a> 
+    </div>
+  </nav>
   <main class="main wrapper">
     {{ content }}
   </main>
