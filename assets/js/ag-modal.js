@@ -3,6 +3,7 @@
 
 var modal = document.createElement('div');
 modal.id = 'portfolio-modal';
+modal.innerText = 'Click/tap anywhere to close';
 document.body.appendChild(modal);
 
 function showModal(caller) {
