@@ -2,6 +2,7 @@
 My Portfolio
 
 ## Todo's
+- [ ] Fiks bildene i riktig rekkefølge med kommentarer
 - [x] Circular illustration on frontpage
 - [x] Landing page slideshow 
 - [x] About and contact on front page (autoscroll)
