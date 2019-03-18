@@ -2,7 +2,7 @@
 My Portfolio
 
 ## Todo's
-- [ ] Apprendre à parler français
+- [ ] Fikse luft fra setning til profilbilde på "about me" + enrdre størrelse på bildet eller zoome mer inn på ansiktet mitt?
 - [ ] Fiks bildene i riktig rekkefølge med kommentarer
 - [x] Circular illustration on frontpage
 - [x] Landing page slideshow 
