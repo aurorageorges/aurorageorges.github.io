@@ -2,6 +2,7 @@
 My Portfolio
 
 ## Todo's
+- [ ] Apprendre à parler français
 - [ ] Fiks bildene i riktig rekkefølge med kommentarer
 - [x] Circular illustration on frontpage
 - [x] Landing page slideshow 
