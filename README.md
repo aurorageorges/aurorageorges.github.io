@@ -8,7 +8,7 @@ My Portfolio
 - [x] Image modals
 - [x] Social media links
 - [x] Image on about section
-- [ ] Download resumé from about section
+- [x] Download resumé from about section
 - [x] Color on social media links (animation)
 - [ ] ~Add tall pictures to illustrations section~
 
