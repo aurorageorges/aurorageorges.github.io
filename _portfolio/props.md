@@ -1,6 +1,6 @@
 ---
 name: Props and Environments
-coverImage: /assets/images/props/icons_red.jpg
+coverImage: /assets/images/props/PerfectlyParanormal.jpg
 images:
 - src: /assets/images/props/1.3_Interface-Sketches.jpg
 - src: /assets/images/props/1.3_Interface-TextureFinal_1.jpg
