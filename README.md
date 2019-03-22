@@ -2,11 +2,11 @@
 My Portfolio
 
 ## Todo's
-- [ ] Increase spacing between paragraph and image in "about me" section
-- [ ] Crop "about me" image to make Aurora's face bigger
+- [x] Increase spacing between paragraph and image in "about me" section
+- [x] Crop "about me" image to make Aurora's face bigger
 - [ ] Fix ordering of images on Prouder page
 - [ ] Fix ordering of images on Props page
-- [ ] Make "click to close" text not overlap images in the image modal
+- [x] Make "click to close" text not overlap images in the image modal
 - [x] Circular illustration on frontpage
 - [x] Landing page slideshow 
 - [x] About and contact on front page (autoscroll)
