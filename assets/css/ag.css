@@ -81,7 +81,7 @@
 .about-image {
   width: 16em;
   height: 16em;
-  margin: 0 auto;
+  margin: 2em auto 0;
   background-size: cover;
   background-position: center center;
   background-repeat: none;
