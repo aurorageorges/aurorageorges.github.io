@@ -3,12 +3,21 @@
 
 var modal = document.createElement('div');
 modal.id = 'portfolio-modal';
-modal.innerText = 'Click/tap anywhere to close';
+
+var note = document.createElement('div');
+note.id = 'portfolio-modal-note';
+note.innerText = 'Click/tap anywhere to close';
+
+var image = document.createElement('div');
+image.id = 'portfolio-modal-image';
+
+modal.appendChild(note);
+modal.appendChild(image);
 document.body.appendChild(modal);
 
 function showModal(caller) {
   modal.style.display = 'block';
-  modal.style.backgroundImage = "url(" + caller.src + ")";
+  image.style.backgroundImage = "url(" + caller.src + ")";
 }
 
 function hideModal() {

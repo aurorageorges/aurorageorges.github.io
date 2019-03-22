@@ -370,13 +370,22 @@
   height: 100%;
   background-color: #000;
   background-color: rgba(0,0,0,0.9);
+}
+
+#portfolio-modal-note {
+  padding: 0.5em 0;
+  color: #999;
+  text-align: center;
+}
+
+#portfolio-modal-image {
+  width: 100%;
+  height: 100%;
   background-image: url("./portfolio/characters/sholder.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
-  color: #999;
-  text-align: center;
-  padding: 1em;
+  
 }
 
 /*
