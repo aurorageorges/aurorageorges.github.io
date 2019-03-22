@@ -2,8 +2,11 @@
 My Portfolio
 
 ## Todo's
-- [ ] Fikse luft fra setning til profilbilde på "about me" + enrdre størrelse på bildet eller zoome mer inn på ansiktet mitt?
-- [ ] Fiks bildene i riktig rekkefølge med kommentarer
+- [ ] Increase spacing between paragraph and image in "about me" section
+- [ ] Crop "about me" image to make Aurora's face bigger
+- [ ] Fix ordering of images on Prouder page
+- [ ] Fix ordering of images on Props page
+- [ ] Make "click to close" text not overlap images in the image modal
 - [x] Circular illustration on frontpage
 - [x] Landing page slideshow 
 - [x] About and contact on front page (autoscroll)
