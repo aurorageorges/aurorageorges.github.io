@@ -361,6 +361,8 @@
 }
 
 #portfolio-modal {
+  flex-direction: column;
+  padding-bottom: 2.5em;
   display: none;
   position: fixed;
   z-index: 20;
@@ -385,7 +387,6 @@
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
-  
 }
 
 /*

@@ -16,7 +16,7 @@ modal.appendChild(image);
 document.body.appendChild(modal);
 
 function showModal(caller) {
-  modal.style.display = 'block';
+  modal.style.display = 'flex';
   image.style.backgroundImage = "url(" + caller.src + ")";
 }
 
