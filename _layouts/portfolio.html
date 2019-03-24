@@ -2,6 +2,9 @@
 layout: default
 ---
 <h2 class="txt-fancy txt-huge titlebanner">{{ page.name }}</h2>
+{% if page.desc %}
+  <p class="paragraph portfolio-description">{{ page.desc }}</p>
+{% endif %}
 
 {% for image in page.images %}
 <div class="portfolio-image">

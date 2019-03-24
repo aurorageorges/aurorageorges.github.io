@@ -1,5 +1,6 @@
 ---
 name: Client - Prouder
+desc: "From June to December 2017 I worked for the company Prouder AS. My job was to create illustration logos for high-school graduates in Norway with variations in artstyle and theme. The fonts and backgrounds were added by the company afterwards."
 coverImage: /assets/images/prouder/baddiewinkle_logo.jpg
 images:
 - src: /assets/images/prouder/rockstar_logo.jpg

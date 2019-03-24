@@ -329,6 +329,10 @@
   text-align: center;
 }
 
+.portfolio-description {
+  padding-bottom: 2.25em;
+}
+
 .portfolio-image {
   display: block;
   width: 100%;
