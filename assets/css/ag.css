@@ -207,7 +207,7 @@
   font-family: 'Playfair Display', 'serif';
   font-size: 2.5em;
   text-align: center;
-  
+  width: 80%;
   color: #fff;
   text-shadow: 0 2px 2px #000b;
   z-index: 5;
@@ -372,6 +372,10 @@
   }
 
   .image-box-text {
+    font-size: 1.5em;
+  }
+
+  .frontpage-description {
     font-size: 1.5em;
   }
 }
