@@ -11,6 +11,7 @@ images:
 - src: /assets/images/characters/aurora-georges-elf-concept.jpg
 - src: /assets/images/characters/aurora-georges-elf-concept-colorface2.jpg
 - src: /assets/images/characters/firstconcept5_red.jpg
+- src: /assets/images/characters/outfit_study_red.jpg
 - src: /assets/images/characters/witchworld_together.jpg
 - src: /assets/images/characters/1.2_MainCharacter-Final.jpg
 - src: /assets/images/characters/1.1_EnvironmentObstacles.jpg
