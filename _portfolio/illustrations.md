@@ -13,6 +13,7 @@ images:
   desc: "Gameloft - NOVA Legacy: Illustration made of Kurenai for marketing"
 - src: /assets/images/illustrations/aurora-georges-welcomescreen-thumbnails-final.jpg
   desc: "Gameloft - NOVA Legacy: Thumbnails for the illustration of Kurenai"
+- src: /assets/images/illustrations/luminescent_redwlogo.jpg
 - src: /assets/images/illustrations/aurora-georges-glowy-blur.jpg
 - src: /assets/images/illustrations/aurora-georges-darkelf-red.jpg
 - src: /assets/images/illustrations/art_collab_final.jpg
