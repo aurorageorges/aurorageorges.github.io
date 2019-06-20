@@ -10,6 +10,7 @@ images:
   desc: "Gameloft - NOVA Legacy: Canceled project of a new alien race."
 - src: /assets/images/characters/aurora-georges-elf-concept.jpg
 - src: /assets/images/characters/aurora-georges-elf-concept-colorface2.jpg
+- src: /assets/images/characters/seaworld_concept_red.jpg
 - src: /assets/images/characters/firstconcept5_red.jpg
 - src: /assets/images/characters/outfit_study_red.jpg
 - src: /assets/images/characters/witchworld_together.jpg
