@@ -2,6 +2,7 @@
 name: Characters and Creatures
 coverImage: /assets/images/characters/assassin_concept_final.jpg
 images:
+- src: /assets/images/characters/seaworld_human_concept_red.jpg
 - src: /assets/images/characters/assassin_concept_final.jpg
   desc: "Gameloft - NOVA Legacy: Early concepts of Kurenai the assassin"
 - src: /assets/images/characters/assassin_turnaround.jpg
