@@ -79,7 +79,7 @@ socialmedias:
   </p>
   <div class="socialmedia">
     {% for socialmedia in page.socialmedias %}
-      <a href="{{ socialmedia.link }}">
+      <a href="{{ socialmedia.link }}"target="_blank">
         <svg role="img" class="socialmedia-icon {{ socialmedia.class }}">
           <title>{{ socialmedia.name }} link</title>
           <use href="{{ socialmedia.icon }}#icon"></use>
