@@ -29,9 +29,5 @@ images:
 - src: /assets/images/illustrations/aurora-georges-lakewitch.jpg
 - src: /assets/images/illustrations/chrushmush_logo.jpg
 - src: /assets/images/illustrations/autumn_progferdig.jpg
-- src: /assets/images/illustrations/hair_effects.jpg
 - src: /assets/images/illustrations/aurora-georges-scurry-red.jpg
-- src: /assets/images/illustrations/hollowween_ferdig2.jpg
-- src: /assets/images/illustrations/aurora-georges-newyear.jpg
-- src: /assets/images/illustrations/aurora-georges-specialsnowflake-final.jpg
 ---
