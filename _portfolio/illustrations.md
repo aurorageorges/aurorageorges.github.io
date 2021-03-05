@@ -21,7 +21,6 @@ images:
 - src: /assets/images/illustrations/aurora-georges-darkelf-red.jpg
 - src: /assets/images/illustrations/art_collab_final.jpg
   desc: "Art-collaboration: Sketch was drawn by @pugsterart on instagram, and I colored and rendered the drawing"
-- src: /assets/images/illustrations/starbucks_purpledrink_red.jpg
 - src: /assets/images/illustrations/aurora-georges-candyscull-red.jpg
 - src: /assets/images/illustrations/aurora-georges-2kthankyou-red.jpg
 - src: /assets/images/illustrations/bw_study_red.jpg
