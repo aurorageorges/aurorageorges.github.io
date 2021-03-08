@@ -1,6 +1,6 @@
 ---
 name: Kolibri Games
-coverImage: /assets/kolibri/Avatars.jpg
+coverImage: /assets/kolibri/KolibriHeader.jpg
 images:
 - src: /assets/kolibri/Backgrounds_1.jpg
 - src: /assets/kolibri/Backgrounds_2.jpg
