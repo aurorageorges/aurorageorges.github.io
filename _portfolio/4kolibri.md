@@ -1,6 +1,6 @@
 ---
 name: Kolibri Games
-coverImage: /assets/images/illustrations/aurora-georges-snowoman-edit.jpg
+coverImage: /assets/images/kolibri/Avatars.jpg
 images:
 - src: /assets/images/kolibri/Avatars.jpg
   desc: "Gameloft - NOVA Legacy: Thumbnails for the illustration of Ludos"
