@@ -9,6 +9,7 @@ images:
 - src: /assets/images/props/aurora-georges-assassin-gun1_logo.jpg
   desc: "Gameloft - NOVA Legacy: Exploration concepts of the pistol figuring what shapes works best."
 - src: /assets/images/props/PerfectlyParanormal.jpg
+- src: /assets/images/props/scenery_test.png
 - src: /assets/images/props/icons_red.jpg
 - src: /assets/images/props/alien_cores_logo.jpg
   desc: "Gameloft - NOVA Legacy: Concepts of the core belonging to the alien race."
