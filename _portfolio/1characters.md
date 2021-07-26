@@ -13,6 +13,8 @@ images:
 - src: /assets/images/characters/aurora-georges-elf-concept-colorface2.jpg
 - src: /assets/images/characters/seaworld_concept_red.jpg
 - src: /assets/images/characters/firstconcept5_red.jpg
+- src: /assets/images/characters/Fire_Evolution_01.jpg
+  desc: "Personal project: Illustrated version of the first evolutions of the Fire branch"
 - src: /assets/images/characters/outfit_study_red.jpg
 - src: /assets/images/characters/AllEggs_Palettes.jpg
   desc: "Personal project: Concepts of elemental eggs for a evolution-type based game"
