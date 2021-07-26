@@ -14,6 +14,8 @@ images:
 - src: /assets/images/characters/seaworld_concept_red.jpg
 - src: /assets/images/characters/firstconcept5_red.jpg
 - src: /assets/images/characters/outfit_study_red.jpg
+- src: /assets/images/characters/AllEggs_Palettes.jpg
+  desc: "Personal project: Concepts of elemental eggs for a evolution-type based game"
 - src: /assets/images/characters/witchworld_together.jpg
 - src: /assets/images/characters/1.2_MainCharacter-Final.jpg
 - src: /assets/images/characters/1.1_EnvironmentObstacles.jpg
