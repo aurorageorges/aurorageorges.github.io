@@ -17,6 +17,7 @@ images:
 - src: /assets/images/characters/witchworld_together.jpg
 - src: /assets/images/characters/1.2_MainCharacter-Final.jpg
 - src: /assets/images/characters/1.1_EnvironmentObstacles.jpg
+- src: /assets/images/characters/character_test.png
 - src: /assets/images/characters/vagabond_concepts.jpg
 - src: /assets/images/characters/animalcompanion_red.jpg
 - src: /assets/images/characters/1.2_MainCharacter-Final (1).jpg
