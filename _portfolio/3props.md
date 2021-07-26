@@ -23,6 +23,8 @@ images:
   desc: "Gameloft - Little Big City: Architecture concepts I did for theme changes."
 - src: /assets/images/props/ingame_screens.jpg
   desc: "Some in-game screens I've drawn in different styles."
+- src: /assets/images/props/icon_test_1.png
+- src: /assets/images/props/icon_test_2.png
 - src: /assets/images/props/1.3_Interface-Sketches.jpg
 - src: /assets/images/props/1.3_Interface-TextureFinal.jpg
 - src: /assets/images/props/1.3_Interface-TextureFinal_1.jpg
