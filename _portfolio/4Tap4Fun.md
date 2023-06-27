@@ -1,6 +1,6 @@
 ---
 name: Tap4Fun
-coverImage: /assets/kolibri/KolibriHeader.jpg
+coverImage: /assets/tap4fun/Tap4FunHeader.png
 images:
 - src: /assets/kolibri/Backgrounds_1.jpg
 - src: /assets/kolibri/Backgrounds_2.jpg
