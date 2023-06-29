@@ -21,6 +21,7 @@ images:
 - src: /assets/tap4fun/SlowDown_Concepts_02.jpg
 - src: /assets/tap4fun/SlowDown_Concepts_03.jpg
 - src: /assets/tap4fun/SlowDown_Concepts_04.jpg
+- src: /assets/tap4fun/Charactersheet_SlowDown.jpg
 - src: /assets/tap4fun/SlowDown_Concepts_Guns_01.jpg
 - src: /assets/tap4fun/SlowDown_Concepts_Guns_02.jpg
 ---
