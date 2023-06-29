@@ -15,9 +15,6 @@ images:
 - src: /assets/tap4fun/Gatcha_Concepts_02.jpg
 - src: /assets/tap4fun/Gatcha_Concepts_03.jpg
 - src: /assets/tap4fun/Gatcha_Colorpalettes.jpg
-- src: /assets/tap4fun/Mechanic_Concepts.jpg
-- src: /assets/tap4fun/Mechanic_Colorpalettes.jpg
-- src: /assets/tap4fun/Mechanic_Charactersheet.jpg
 - src: /assets/tap4fun/MusicBass_Concepts_01.jpg
 - src: /assets/tap4fun/MusicBass_Concepts_02.jpg
 - src: /assets/tap4fun/SlowDown_Concepts_01.jpg
