@@ -6,3 +6,4 @@ images:
 - src: /assets/images/graficole/SheepExpressionsChart_02.jpg
 - src: /assets/images/graficole/Mockup_Tiles.jpg
 - src: /assets/images/graficole/LobbyBackground_Process.jpg
+---
