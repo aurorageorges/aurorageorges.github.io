@@ -7,7 +7,7 @@ images:
 - src: /assets/images/graficole/Sheep_ExpressionsChart_02.jpg
 - src: /assets/images/graficole/Mockup_Tiles.jpg
 - src: /assets/images/graficole/LobbyBackground_Process.jpg
-- src: /assets/images/graficole/GameLOGO.jpg
+- src: /assets/images/graficole/GameLOGO.png
 - src: /assets/images/graficole/MaleCharacter_Concepts_01.jpg
 - src: /assets/images/graficole/MaleCharacter_Colorpalettes.jpg
 - src: /assets/images/graficole/MaleCharacter_Colorpalettes_02.jpg
