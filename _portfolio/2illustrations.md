@@ -17,6 +17,7 @@ images:
   desc: "Gameloft - NOVA Legacy: Thumbnails for the illustration of Kurenai"
 - src: /assets/images/illustrations/aurora-georges-fall-red.jpg
 - src: /assets/images/illustrations/aurora-georges-valentines.jpg
+- src: /assets/images/illustrations/blushingphantom.jpg
 - src: /assets/images/illustrations/luminescent_redwlogo.jpg
 - src: /assets/images/illustrations/aurora-georges-glowy-blur.jpg
 - src: /assets/images/illustrations/aurora-georges-darkelf-red.jpg
