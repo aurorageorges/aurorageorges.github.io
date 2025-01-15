@@ -3,6 +3,7 @@ name: Illustrations
 coverImage: /assets/images/illustrations/aurora-georges-snowoman-edit.jpg
 images:
 - src: /assets/images/illustrations/aurora-georges-snowoman-edit.jpg
+- src: /assets/images/illustrations/bloodmoon.jpg
 - src: /assets/images/illustrations/aurora-georges-brokentouch-red.jpg
 - src: /assets/images/illustrations/aurora-georges-ludos-welcomescreen-red.jpg
   desc: "Gameloft - NOVA Legacy: Illustration made of Ludos for marketing"
