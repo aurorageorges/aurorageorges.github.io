@@ -1,5 +1,6 @@
 ---
 name: Graficole
+desc: "At Graficole I worked in three different games: "Spin Warriors", "Battlesheep" and "Cards Rumble" all from scratch."
 coverImage: /assets/images/graficole/Graficole_Banner.jpg
 images:
 - src: /assets/images/graficole/Battlesheep_LOGO.png
