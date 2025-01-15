@@ -1,6 +1,6 @@
 ---
 name: Illustrations
-coverImage: /assets/images/illustrations/aurora-georges-snowoman-edit.jpg
+coverImage: /assets/images/illustrations/Illustrations_Banner.jpg
 images:
 - src: /assets/images/illustrations/aurora-georges-snowoman-edit.jpg
 - src: /assets/images/illustrations/bloodmoon.jpg
