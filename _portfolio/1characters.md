@@ -18,12 +18,9 @@ images:
 - src: /assets/images/characters/Fire_Evolution_02Fox.jpg
 - src: /assets/images/characters/Fire_Evolution_02Salamander.jpg
 - src: /assets/images/characters/outfit_study_red.jpg
+- src: /assets/images/characters/animalcompanion_red.jpg
 - src: /assets/images/characters/AllEggs_Palettes.jpg
   desc: "Personal project: Concepts of elemental eggs for a evolution-type based game"
 - src: /assets/images/characters/witchworld_together.jpg
-- src: /assets/images/characters/1.2_MainCharacter-Final.jpg
-- src: /assets/images/characters/1.1_EnvironmentObstacles.jpg
 - src: /assets/images/characters/character_test.png
-- src: /assets/images/characters/vagabond_concepts.jpg
-- src: /assets/images/characters/animalcompanion_red.jpg
 ---
