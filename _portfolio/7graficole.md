@@ -15,4 +15,9 @@ images:
 - src: /assets/images/graficole/FemaleCharacter_Concepts_01.jpg
 - src: /assets/images/graficole/FemaleCharacter_Colorpalettes.jpg
 - src: /assets/images/graficole/Female_Avatar_Faces.jpg
+- src: /assets/images/graficole/MysteriousCharacter_Concepts.jpg
+- src: /assets/images/graficole/King_TutorialCharacter_Turnaround_Base.jpg
+- src: /assets/images/graficole/King_TutorialCharacter_Armor_Turnaround.jpg
+- src: /assets/images/graficole/Queen_TutorialCharacter_Concepts.jpg
+- src: /assets/images/graficole/Gametable_Concepts.jpg
 ---
