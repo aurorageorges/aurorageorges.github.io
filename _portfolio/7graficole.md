@@ -2,6 +2,10 @@
 name: Graficole
 coverImage: /assets/images/graficole/Graficole_Banner.jpg
 images:
+- src: /assets/images/graficole/SpinWarriorsLOGO.png
+- src: /assets/images/graficole/RenderedUnits_Mockup.jpg
+- src: /assets/images/graficole/FantasyUnits_Concepts.jpg
+- src: /assets/images/graficole/HalloweenUnits_Concepts.jpg
 - src: /assets/images/graficole/Battlesheep_LOGO.png
 - src: /assets/images/graficole/LoadingScreen_Process_02.jpg
 - src: /assets/images/graficole/Sheep_ExpressionsChart_02.jpg
