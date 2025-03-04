@@ -6,6 +6,17 @@ images:
 - src: /assets/images/graficole/RenderedUnits_Mockup.jpg
 - src: /assets/images/graficole/FantasyUnits_Concepts.jpg
 - src: /assets/images/graficole/HalloweenUnits_Concepts.jpg
+- src: /assets/images/graficole/LoadingScreen_Process.jpg
+- src: /assets/images/graficole/EdibleIcon_Concepts.jpg
+- src: /assets/images/graficole/GolemArena_Concepts.jpg
+- src: /assets/images/graficole/GolemArena_Colorpalettes.jpg
+- src: /assets/images/graficole/Dragon_Process.jpg
+- src: /assets/images/graficole/Elf_Colorpalettes.jpg
+- src: /assets/images/graficole/MenuMap_MockupConcepts.jpg
+- src: /assets/images/graficole/Golem_Concepts.jpg
+- src: /assets/images/graficole/WizardArena_Colorpalettes.jpg
+- src: /assets/images/graficole/MummyArena_Concepts.jpg
+- src: /assets/images/graficole/KnightArena_Concepts.jpg
 - src: /assets/images/graficole/Battlesheep_LOGO.png
 - src: /assets/images/graficole/LoadingScreen_Process_02.jpg
 - src: /assets/images/graficole/Sheep_ExpressionsChart_02.jpg
